@@ -1,0 +1,17 @@
+Pseudocode Homework #4 
+Build a timed code quiz with multiple choice questions.In browser feature HTML, CSS and Javascript. Adapts to multiple screen sizes. 
+
+1. I am taking a code quiz
+2. When I click the start button 
+3. A timer starts and I am presented with a question 
+4. When I answer the question 
+5. Then I am presented with another question 
+6. When I answer a question incorrectly
+7. Then time is subtracted from the clock 
+8. When all the questions are answered or the timer reaches 0 
+9. Then the game is over
+10. When the game is over
+11. Then I can save my initials and score
+
+*Submit URL of deployed application 
+*Submit URL of Github repository. Give the repository a unique name and include a README descriping the project. 
